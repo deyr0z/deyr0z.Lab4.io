@@ -1,0 +1,19 @@
+.buttons{
+    margin: 5px 0px 0px 0px;
+}
+
+.add{
+background-color: green;
+}
+
+.increase{
+background-color: pink;
+}
+
+.degrease{
+background-color: azure;
+}
+
+.delete{
+background-color: red;
+}
